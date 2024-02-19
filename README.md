@@ -1,4 +1,4 @@
 # second
 My second Git repo.
 <br>
-Author-- Muttjmal Hussain
+Author-- Muttjmal Hussain Janda
